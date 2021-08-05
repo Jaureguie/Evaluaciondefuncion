@@ -19,7 +19,7 @@ footer{
   justify-content: space-between;
   flex-wrap: wrap;
   padding-top: 10px;
-  padding-bottom: 0px;
+  padding-bottom: 50px;
   padding-left: 100px;
   padding-right: 100px;
   text-align: left; 
@@ -59,6 +59,7 @@ footer{
   margin: 0 auto;
   height: 2px;
   background: rgb(24, 23, 23);
+  text-align: center;
 }
 h1 {
   font-family: "Raleway"; 
@@ -147,6 +148,7 @@ td{
       font-size: 18px;
       text-align: center;
       display: flex;
+      padding-bottom: 80px;
   }
   .social-media{
       width: 100%;
